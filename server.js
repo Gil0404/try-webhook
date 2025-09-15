@@ -24,7 +24,7 @@ app.post('/ghl-webhook', async (req, res) => {
       },
     };
 
-    const shopifyStoreUrl = '';
+    const shopifyStoreUrl = 'https://shopify.com/94340907374/account';
     const shopifyApiToken = 'API_WEB_SHOP';
     const apiVersion = '2024-07'; // Use the latest stable API version
 
