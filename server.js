@@ -25,7 +25,7 @@ app.post('/ghl-webhook', async (req, res) => {
     };
 
     const shopifyStoreUrl = 'https://x1p256-by.myshopify.com';
-    const shopifyApiToken = 'API_WEB_SHOP';
+    const shopifyApiToken = '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';
     const apiVersion = '2024-07'; // Use the latest stable API version
 
     // Make the HTTP POST request to Shopify's Admin API
